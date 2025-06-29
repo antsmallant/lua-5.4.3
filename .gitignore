@@ -1,0 +1,4 @@
+install/
+src/*.o
+src/lua
+src/luac
